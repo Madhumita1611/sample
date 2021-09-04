@@ -1,9 +1,9 @@
 {
-    "madhu details": {
+    "madhuDetails": {
         "name":"Madhumita",
-        "college name": "Dr.N.G.P. Institute of Technology",
+        "collegeName": "Dr.N.G.P. Institute of Technology",
         "department": "Computer Science and Engineering",
-        "roll.no": "18CS034",
-        "reg.no": 710718104034
+        "rollNo": "18CS034",
+        "regNo": 710718104034
     }
 }
